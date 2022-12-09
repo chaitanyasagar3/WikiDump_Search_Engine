@@ -1,0 +1,13 @@
+
+Sun May 11 09:51:40 PDT 2014-->Starting search
+
+Sun May 11 09:51:40 PDT 2014-->loading posting list for term: jesus
+
+Sun May 11 09:51:40 PDT 2014-->loading posting list for term: jesus complete
+
+Sun May 11 09:51:41 PDT 2014-->loading posting list for term: christ
+
+Sun May 11 09:51:46 PDT 2014-->loading posting list for term: christ complete
+
+Sun May 11 09:51:52 PDT 2014-->Search complete
+
